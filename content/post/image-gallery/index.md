@@ -1,22 +1,16 @@
 ---
-title: Image gallery
-description: Create beautiful interactive image gallery using Markdown
-date: 2023-08-26 00:00:00+0000
-image: 2.jpg
+title: Space Needle Gallery
+description: Views of the Space Needle
+date: 2025-11-24 00:00:00+0000
+image: IMG_0892.jpeg
 ---
 
-Hugo theme Stack supports the creation of interactive image galleries using Markdown. It's powered by [PhotoSwipe](https://photoswipe.com/) and its syntax was inspired by [Typlog](https://typlog.com/).
+![](IMG_0587.jpeg) ![](IMG_0892.jpeg)
 
-To use this feature, the image must be in the same directory as the Markdown file, as it uses Hugo's page bundle feature to read the dimensions of the image. **External images are not supported.**
+![](IMG_1871.jpeg) ![](IMG_2086.jpeg) ![](IMG_2446.jpeg) 
 
-## Syntax
+![](IMG_2462.jpeg) ![](IMG_2490.jpeg) ![](IMG_2521.jpeg) 
 
-```markdown
-![Image 1](1.jpg) ![Image 2](2.jpg)
-```
+![](IMG_2559.jpeg) ![](IMG_2567.jpeg) ![](IMG_2591.jpeg)
 
-## Result
-
-![Image 1](1.jpg) ![Image 2](2.jpg)
-
-> Photo by [mymind](https://unsplash.com/@mymind) and [Luke Chesser](https://unsplash.com/@lukechesser) on [Unsplash](https://unsplash.com/)
+![](IMG_2601.jpeg) ![](IMG_2633.jpeg) 
