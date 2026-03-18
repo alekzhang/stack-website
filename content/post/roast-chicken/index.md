@@ -2,7 +2,10 @@
 title: Roast Chicken with Kale Salad 
 description: How to make a roast chicken and kale salad 
 date: 2026-03-16 00:00:00+0000
+image: roast-chicken.jpg
 ---
+
+Borrowed and stolen from [Eater's Youtube Video](https://www.youtube.com/watch?v=SCbW8FrDsPU)
 
 # Ingredients
 
